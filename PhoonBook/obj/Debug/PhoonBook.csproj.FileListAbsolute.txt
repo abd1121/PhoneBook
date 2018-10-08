@@ -1,0 +1,164 @@
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\ApplicationInsights.config
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\csc.exe
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\vbc.exe
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\VBCSCompiler.exe
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\PhoonBook.dll.config
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\PhoonBook.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\PhoonBook.pdb
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Antlr3.Runtime.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\EntityFramework.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\EntityFramework.SqlServer.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.Web.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.WindowsServer.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.ApplicationInsights.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Google.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Web.Infrastructure.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Newtonsoft.Json.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Owin.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Helpers.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Mvc.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Optimization.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Razor.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.Deployment.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.Razor.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\WebGrease.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.Web.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AI.WindowsServer.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.ApplicationInsights.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Helpers.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Mvc.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Optimization.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.Razor.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.Deployment.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\System.Web.WebPages.Razor.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Antlr3.Runtime.pdb
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Newtonsoft.Json.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\EntityFramework.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\EntityFramework.SqlServer.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Google.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\obj\Debug\PhoonBook.csprojResolveAssemblyReference.cache
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\obj\Debug\PhoonBook.dll
+c:\users\abdullah tariq\documents\visual studio 2015\Projects\PhoonBook\PhoonBook\obj\Debug\PhoonBook.pdb
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\ApplicationInsights.config
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\csc.exe
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\vbc.exe
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\PhoonBook.dll.config
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\PhoonBook.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\PhoonBook.pdb
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Antlr3.Runtime.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\EntityFramework.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.Web.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Newtonsoft.Json.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Owin.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Helpers.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Mvc.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Optimization.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Razor.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\WebGrease.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.Web.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Helpers.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Mvc.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Optimization.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.Razor.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Antlr3.Runtime.pdb
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Newtonsoft.Json.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\EntityFramework.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\obj\Debug\PhoonBook.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\obj\Debug\PhoonBook.dll
+C:\Users\Abdullah Tariq\Desktop\PhoonBook\PhoonBook\obj\Debug\PhoonBook.pdb
